@@ -6,6 +6,5 @@
   </head>
   <body>
     <p>C'est la vue de l'index</p>
-    <?php echo $my_client->getProducts()[0]->getName(); ?>
   </body>
 </html>
